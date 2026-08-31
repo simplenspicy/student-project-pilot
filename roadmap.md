@@ -1,0 +1,5 @@
+- [x] Replace starter placeholder with ProjectForge MVP workspace
+- [x] Add guided project intake and AI analysis result interaction
+- [x] Add catalog, project progress, and dashboard navigation states
+- [x] Establish ProjectForge semantic design tokens and metadata
+- [ ] Connect persistence, authentication, payments, and real AI analysis
